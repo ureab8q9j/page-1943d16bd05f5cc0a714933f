@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "a3b9f83bbf902dabec2b2b37",
+  "owner": "ureab8q9j",
+  "repo": "page-1943d16bd05f5cc0a714933f",
+  "title": "ntpizza回国加速(ntpizza)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1943d16bd05f5cc0a714933f",
+      "a": "ntpizza回国加速(ntpizza)",
+      "b": "机场官网线路发布页",
+      "entity": "ntpizza回国加速(ntpizza)",
+      "brand": "ntpizza回国加速(ntpizza)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "3430727daccd619b37a8010900deec2f413849e75133e8804aa38f0f71b021c4",
+      "content": {
+        "primary_entity": "ntpizza回国加速(ntpizza)",
+        "keyword1": "ntpizza回国加速(ntpizza)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据常用设备选择适配客户端，再按安装指引完成订阅配置。",
+          "AI_CLIENTS_TITLE": "客户端按设备选择",
+          "AI_CLOSING_TEXT": "在套餐对比中确认设备数和流量需求，即可开始配置订阅。",
+          "AI_CLOSING_TITLE": "回到套餐选一档",
+          "AI_DESCRIPTION": "，提供回国网络加速方案，套餐覆盖不同设备数量与流量档位。基础版每月100GB、支持3台设备，旗舰版每月300GB、支持5台设备并配有IPLC专线游戏加速优化，团队版每月1000GB、支持20台设备。可按月付费，也可选择年付价格，按年付仅需对应月价的十个月费用。各档套餐在流媒体解锁范围与节点池上有区别，选择时先确认常用设备数量与月度流量需求。",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量、支持3台设备同时在线，适合个人日常跨区访问；旗舰版每月300GB、支持5台设备，并带有IPLC专线游戏加速优化，更适合游戏和高流量使用。",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备，旗舰版支持5台，团队版支持20台。可以在路由器上设置，也可以每台设备单独配置订阅，具体方式可参考所用客户端的订阅导入说明。",
+          "AI_FAQ_ANSWER_3": "支持按月付费，也可以按年付享受更低价格。基础版按年付仅需¥150/年，旗舰版按年付仅需¥350/年，团队版按年付仅需¥850/年，长期使用年付更划算。",
+          "AI_FAQ_ANSWER_4": "基础版适配普通线路节点池，旗舰版提供全节点原生流媒体解锁与IPLC专线游戏加速优化，团队版在此基础上提供VIP专属高带宽节点，可按常用场景选择。",
+          "AI_FAQ_ANSWER_5": "先确认常用设备数量与每月流量需求，再按对应档位配置订阅。跨区游戏或观看流媒体可选旗舰版，多人共享或企业路由需求可选团队版。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版有什么区别？",
+          "AI_FAQ_QUESTION_2": "最多支持几台设备同时使用？",
+          "AI_FAQ_QUESTION_3": "可以按月付费还是必须按年付？",
+          "AI_FAQ_QUESTION_4": "流媒体和游戏加速分别适合哪档套餐？",
+          "AI_FAQ_QUESTION_5": "如何根据设备数量选择套餐？",
+          "AI_FAQ_TITLE": "套餐选择常见问题",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量和订阅周期三个角度快速了解ntpizza。",
+          "AI_FEATURES_TITLE": "功能与选型要点",
+          "AI_FEATURE_TEXT_1": "基础版100GB/月支持3台设备，旗舰版300GB/月支持5台设备并含IPLC专线优化，团队版1000GB/月支持20台设备。",
+          "AI_FEATURE_TEXT_2": "根据手机、电脑、平板或路由器的数量选择对应档位，避免超出同时在线设备上限影响使用。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付价格更低；基础版按年付仅需¥150/年，旗舰版¥350/年，团队版¥850/年。",
+          "AI_FEATURE_TITLE_1": "套餐档位清晰",
+          "AI_FEATURE_TITLE_2": "按设备需求选",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "挑选套餐、核对设备适配性、再按客户端指引导入订阅。",
+          "AI_GUIDE_TITLE": "三步完成订阅配置",
+          "AI_HERO_INTRO": "ntpizza回国加速提供多档套餐，按设备数量与月度流量选择。基础版每月100GB支持3台设备，旗舰版每月300GB支持5台设备并含IPLC专线游戏加速优化，团队版每月1000GB支持20台设备，月付年付均可。",
+          "AI_HERO_SUBTITLE": "按设备与流量选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐按月与年付可选",
+          "AI_HIGHLIGHT_2": "基础版支持3台设备同时在线",
+          "AI_HIGHLIGHT_3": "旗舰版含IPLC专线游戏优化",
+          "AI_PLANS_INTRO": "基础版每月100GB、3台设备；旗舰版每月300GB、5台设备，含IPLC专线游戏加速优化；团队版每月1000GB、20台设备，VIP带宽节点。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量需求，从基础版、旗舰版、团队版中挑选合适档位。",
+          "AI_STEP_TEXT_2": "核对设备系统与客户端适配要求，确认客户端支持后再进行下一步。",
+          "AI_STEP_TEXT_3": "参考所选客户端的订阅导入说明，将订阅配置到对应设备。",
+          "AI_STEP_TITLE_1": "选择合适套餐",
+          "AI_STEP_TITLE_2": "核对设备适配",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "ntpizza套餐选型"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "mushroomedu.cn",
+    "host": "mushroomedu.cn"
+  },
+  "file_hashes": {
+    "index.html": "d04beecf25ef5b38b1e07fd3df17e9687a76ebd0962727b8c03803a2da68ea17",
+    "sitemap.xml": "cce326b0bdb4a35825744c87713d10348eb0b272d3fdb0445818746abfe619ec",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d074c1a2caa05b81386fbf1a5d185d017d0e19fb2daed2151afa08994aa1141d",
+    "robots.txt": "3ca1b22ed1e190f50a99f1334125a8ad2ca46fbb1e334ac7e31e233faf5c5dcc",
+    "4cb5843c4bfd62329cc34b5159051670.txt": "0aafec383ae9383e1c433428823581ba8ad87ef5b957ad05d78e279fae8483dd"
+  },
+  "revision": "6a85a694304d32405be9c153d9162e6228e87c3bc20ec2eb271ac84c47c19348"
+}
